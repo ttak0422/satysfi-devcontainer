@@ -2,7 +2,7 @@
 
 [SATySFi](https://github.com/gfngfn/SATySFi)と[Satyrographos](https://github.com/na4zagin3/satyrographos)が実行可能な[devcontainer](https://code.visualstudio.com/docs/remote/containers)環境です。
 
-macOS 10.15.4, Docker desktop 2.2.0.5で動作を確認。
+macOS 10.15.4, Docker desktop 2.2.0.5で動作を確認。
 
 ## 事前準備
 
