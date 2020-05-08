@@ -16,5 +16,7 @@ RUN sudo apt-get update \
     && sudo apt-get autoremove -y \
     && sudo apt-get clean -y 
 
+RUN echo 'eval $(opam env)' >> ~/.bashrc
+
 ENV HOME=/home/opam
 ENV DEBIAN_FRONTEND=dialog
