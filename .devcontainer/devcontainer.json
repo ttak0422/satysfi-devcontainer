@@ -1,0 +1,12 @@
+{
+    "name": "SATySFi",
+    "dockerComposeFile": [
+        "docker-compose.yml"
+    ],
+    "service": "devcontainer",
+    "remoteUser": "opam",
+    "workspaceFolder": "/home/opam/satysfi",
+    "extensions": [
+        "wraikny.wraikny-satysfi-extension"
+    ]
+}

@@ -1,0 +1,9 @@
+version: "3"
+services: 
+    devcontainer:
+        build: .
+        user: 1000:1000
+        volumes: 
+            - ./..:/home/opam/satysfi
+        working_dir: /home/opam/satysfi
+        tty: true
