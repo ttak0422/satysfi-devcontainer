@@ -1,0 +1,10 @@
+@require: stdjabook
+
+document (|
+  title = {\SATySFi;-devcontainer};
+  author = {ttak0422};
+  show-title = true;
+  show-toc = true;
+|) '<
+  
+>
