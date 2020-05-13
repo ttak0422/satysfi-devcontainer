@@ -20,6 +20,3 @@ macOS 10.15.4, Docker desktop 2.2.0.5で動作を確認。
 
     ![items](https://user-images.githubusercontent.com/15827817/81368287-5e010300-912a-11ea-9fdb-016e19e3203b.png)
 
-## 補足
-
-**TODO: WSL2上のプロジェクトを開く方法について書く**
